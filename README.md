@@ -2,13 +2,12 @@
 # Para podermos praticar o que foi ensinado na aula do dia...
 # Assim podemos enteder como se cria um corpo de uma pagina em HTML...
 
-#<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pontos Turísticos</title>
-
 </head>
 <body>
     <div class="header">
@@ -36,7 +35,6 @@
             <p>A CN Tower é uma das estruturas mais altas do mundo e oferece uma vista panorâmica incrível da cidade de Toronto. É um símbolo icônico do Canadá e um lugar perfeito para quem gosta de altura.</p>
             <a href="#" class="btn">Reserve Agora</a>
         </div>
-
         <h2 id="estados-unidos">Estados Unidos</h2>
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Statue_of_Liberty_7.jpg" alt="Estátua da Liberdade, Nova York">
@@ -50,7 +48,6 @@
             <p>O Grand Canyon é uma das formações geológicas mais impressionantes do mundo. Este desfiladeiro vasto e profundo no estado do Arizona oferece vistas de tirar o fôlego e é um destino popular para os amantes da natureza.</p>
             <a href="#" class="btn">Reserve Agora</a>
         </div>
-
         <h2 id="inglaterra">Inglaterra</h2>
         <div class="card">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Westminster_Abbey_from_the_North.jpg" alt="Abadia de Westminster, Londres">
@@ -65,7 +62,6 @@
             <a href="#" class="btn">Reserve Agora</a>
         </div>
     </div>
-
     <div class="footer">
         <p id="contato">Entre em contato: contato@pontos-turisticos.com | Tel: (21) 1234-5678</p>
         <p id="login"><a href="#" class="btn">Login</a></p>
