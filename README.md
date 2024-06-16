@@ -2,7 +2,7 @@
 # Para podermos praticar o que foi ensinado na aula do dia...
 # Assim podemos enteder como se cria um corpo de uma pagina em HTML...
 
-<!DOCTYPE html>
+#<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
